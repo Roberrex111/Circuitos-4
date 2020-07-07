@@ -1,1 +1,3 @@
-Term projects Q1-20
+Term projects
+Q1-2020
+Q2-2020
